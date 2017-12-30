@@ -27,8 +27,7 @@ namespace _1.SumMatrixElements
 
             Console.WriteLine(rows);
             Console.WriteLine(cols);
-            Console.WriteLine(sum);
-                
+            Console.WriteLine(sum);                
         }
     }
 }
