@@ -22,7 +22,6 @@ namespace _4._PascalTriangle
                     pascalTriangle[row][col] = pascalTriangle[row - 1][col - 1] + pascalTriangle[row - 1][col];
 
                 }
-
             }
 
             foreach (var row in pascalTriangle)
