@@ -1,4 +1,4 @@
-﻿namespace Problem_7._Directory_Traversal
+﻿namespace Problem_8._Directory_Traversal
 {
     using System;
     using System.Collections.Generic;
